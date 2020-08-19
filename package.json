@@ -1,0 +1,29 @@
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "description": "\"Week4\"",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rakshith-kumar-j/ReactCoursera.git"
+  },
+  "author": "Rakshith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakshith-kumar-j/ReactCoursera/issues"
+  },
+  "homepage": "https://github.com/rakshith-kumar-j/ReactCoursera#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.1.1",
+    "lite-server": "^2.5.4",
+    "popper.js": "^1.12.9"
+  }
+}
